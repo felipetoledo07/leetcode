@@ -7,8 +7,8 @@ class Solution:
 
 
 solution = Solution()
-print('Case 1: ' + str(solution.twoSum([2, 7, 11, 15], 9)))
-print('Case 2: ' + str(solution.twoSum([3, 2, 4], 6)))
-print('Case 2: ' + str(solution.twoSum([3, 3], 6)))
+print('Case 1: ', solution.twoSum([2, 7, 11, 15], 9))
+print('Case 2: ', solution.twoSum([3, 2, 4], 6))
+print('Case 2: ', solution.twoSum([3, 3], 6))
 
 
